@@ -1,3 +1,7 @@
+/*Hardware Livre USP
+* por Bruno Rafael Arico
+* hardware necessario: Arduino com atmega328,utiliza apenas o led BUILT_IN
+*/
 #define LED 13
 
 int value;
